@@ -1,4 +1,4 @@
-# MIGAN
+# Multiple Imputation via Generative Adversarial Network for High-dimensional Blockwise Missing Value Problems
 
 Abstract:
 We proposed a robust GAN-based multiple imputation method, MIGAN, for blockwise general pattern missing data. 
